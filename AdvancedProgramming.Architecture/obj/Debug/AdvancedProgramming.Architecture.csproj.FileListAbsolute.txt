@@ -1,0 +1,24 @@
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Lenovo\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Lenovo\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Lenovo\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Lenovo\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Lenovo\Downloads\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Lenovo\Downloads\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Lenovo\Downloads\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Lenovo\Downloads\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Lenovo\Downloads\Ana-Picado-L-T1 (1)\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Lenovo\Downloads\Ana-Picado-L-T1 (1)\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Lenovo\Downloads\Ana-Picado-L-T1 (1)\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Ana-Picado-L-T1 (1)\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Ana-Picado-L-T1 (1)\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Lenovo\Downloads\Ana-Picado-L-T1 (1)\AdvancedProgramming\ProgramacionAvanzada\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
